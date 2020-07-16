@@ -10,8 +10,47 @@ h1{
 
 .message-list{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     font-weight: bold;
     
 }
+/* 
+* 
+body{
+     background-image: linear-gradient( 135deg, #81FBB8 10%, #28C76F 100%);
+     margin: auto;
+     width: 70%;
+     margin-top: 100px;
+    justify-content: center;
+    height: 100vh;
+    border: 1px solid wheat;
+}
+
+.name-div{
+    background-image: linear-gradient( 135deg, #CE9FFC 10%, #7367F0 100%);
+    height: 300px;
+    width: 600px;
+    border-radius: 10px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.first-div{
+    display: flex;
+}
+
+.bio-p{
+color: black;
+font-family: 'Baloo Da 2', cursive;
+font-family: 'Grenze Gotisch', cursive;
+font-family: 'Sora', sans-serif;   
+}
+
+.skills{
+    background-image: linear-gradient( 135deg, #FDEB71 10%, #F8D800 100%);
+    width: 360px;
+    border-radius: 10px;
+    margin-left:auto;
+    margin-right:auto;
+} */
