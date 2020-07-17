@@ -1,20 +1,72 @@
-.app{
-    display: grid;
-    justify-content: center;
-}
 
-h1{
-    margin-bottom: 5rem;
-    color: blue;
-}
 
-.message-list{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    font-weight: bold;
+.h1-1{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    text-align: center;
     
 }
+
+.message-card{
+    align-items: center;
+    
+    margin: 10px;
+}
+
+.card-user{
+    border-radius: 20px;
+    background-color: grey;
+    width: fit-content;
+    height: 3rem;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.card-guest{
+    border-radius: 20px;
+    background-color: rgb(7, 97, 182);
+    width: fit-content;
+    text-align: right;
+    
+}
+
+.message-p{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* 
 * 
 body{
