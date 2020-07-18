@@ -1,5 +1,4 @@
-
-
+ 
 .h1-1{
     margin-top: 10px;
     margin-bottom: 50px;
@@ -9,25 +8,29 @@
 
 .message-card{
     align-items: center;
-    
     margin: 10px;
+    
 }
 
-.card-user{
+.message-userCard{
     border-radius: 20px;
     background-color: grey;
     width: fit-content;
     height: 3rem;
-    text-align: center;
     justify-content: center;
+    text-align: right !important;
     
 }
 
-.card-guest{
+.message-guestCard{
+    border-radius: 20px;
+    width: fit-content;
+    height: 3rem;
     border-radius: 20px;
     background-color: rgb(7, 97, 182);
     width: fit-content;
-    text-align: right;
+    text-align: right !important;
+    
     
 }
 
